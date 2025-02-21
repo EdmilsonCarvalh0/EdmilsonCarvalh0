@@ -32,7 +32,7 @@ Estou em transição de carreira da área de finanças onde atuei como Trader Fu
 
 <h3 style='font-family: JetBrains Mono'>GitHub Stats</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdmilsonCarvalh&theme=transparent&bg_color=112&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=FFFFAF&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdmilsonCarvalh0&theme=transparent&bg_color=112&border_color=FFFFFF&show_icons=true&icon_color=30A3DC&title_color=FFFFAF&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EdmilsonCarvalh0&layout=compact&bg_color=112&border_color=FFFFFF&title_color=FFFFAF&text_color=FFF)
 
 ---
